@@ -29,5 +29,7 @@ namespace PiedraPapelOTijeras.Tests
             Assert.Equal(nombre2, juego.Jugador2.Nombre);
             Assert.Equal(puntaje, juego.PuntajeParaGanar);
         }
+
+        
     }
 }
